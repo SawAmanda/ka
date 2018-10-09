@@ -1,0 +1,14 @@
+{
+    "status" : 0,
+    "message" : [
+        {
+            "img": "http://localhost:8080/statics/image/ban-1.jpg"
+        },
+        {
+            "img": "http://localhost:8080/statics/image/ban-2.jpg"
+        },
+        {
+            "img": "http://localhost:8080/statics/image/ban-3.jpg"
+        }
+    ]
+}
